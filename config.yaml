@@ -16,7 +16,7 @@ frontmatter:
 params:
   description: Equipping those called to serve and engage the Chinese heritage church.
   datesinlist: 1
-  disableThemeToggle: false
+  disableThemeToggle: true
   ShowReadingTime: false
   mainSections:
     - posts
