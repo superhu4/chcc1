@@ -1,0 +1,47 @@
+baseURL: http://chcc1.netlify.app/
+languageCode: en-us
+title: CHCC
+theme: papermod
+enableGitInfo: true
+paginate: 10
+frontmatter:
+  date:
+    - date
+    - publishDate
+    - lastmod
+  lastmod:
+    - lastmod
+    - date
+    - publishDate
+params:
+  description: Equipping those called to serve and engage the Chinese heritage church.
+  datesinlist: 1
+  disableThemeToggle: false
+  ShowReadingTime: false
+  mainSections:
+    - posts
+
+related:
+  includeNewer: true
+  threshold: 75
+  toLower: false
+  indices:
+    - name: keywords
+      weight: 100
+    - name: date
+      weight: 10
+      
+menu:
+  main:
+    - identifier: 2023
+      name: 2023 Ministers Collective
+      url: /2023/
+      weight: 20
+
+
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 75
+  resampleFilter: Box
