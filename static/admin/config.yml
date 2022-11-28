@@ -8,24 +8,11 @@ public_folder: "/"
 
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Posts" # Used in the UI, ie.: "New Post"
-    label_singular: "Post"
-    description: >
-      The description is a great place for tone setting, high level information, and editing
-      guidelines that are specific to a collection.
-    folder: "content/posts" # The path to the folder where the documents are stored
+  - name: "all" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Pages or Posts" # Used in the UI, ie.: "New Post"
+    label_singular: "Page or Post"
+    folder: "content/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    view_filters:
-      - label: Posts With Index
-        field: title
-        pattern: 'This is post #'
-      - label: Posts Without Index
-        field: title
-        pattern: front matter post
-      - label: Drafts
-        field: draft
-        pattern: true
     view_groups:
       - label: Year
         field: date
@@ -42,13 +29,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Keywords", name: "keywords", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "all" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Content" # Used in the UI, ie.: "New Post"
-    folder: "content/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+
       
