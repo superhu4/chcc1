@@ -1,0 +1,33 @@
+backend:
+  name: git-gateway
+  branch: main
+  
+
+media_folder: "static"
+public_folder: "/"
+
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "all" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Pages or Posts" # Used in the UI, ie.: "New Post"
+    label_singular: "Page or Post"
+    folder: "content/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}   
+      - {label: "Publish Date", name: "publishDate", widget: "datetime", required: false}
+      - {label: "Modified Date", name: "lastmod", widget: "datetime", required: false}   
+      - {label: "Expiry Date", name: "expiryDate", widget: "datetime", required: false}          
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Keywords", name: "keywords", widget: "text", required: false}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+      

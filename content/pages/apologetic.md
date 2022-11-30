@@ -4,7 +4,7 @@ url: apologetic
 summary: Why do Chinese heritage churches exist?
 Keywords: Chinese, church, pastors, heritage
 _build:
-  list: never
+  list: always
 draft: false
 ---
 

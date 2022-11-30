@@ -1,37 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pages on Bible Delight</title>
-    <link>http://bibledelight.netlify.app/pages/</link>
-    <description>Recent content in Pages on Bible Delight</description>
+    <title>Pages on CHCC</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on CHCC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Sep 2022 20:01:38 -0400</lastBuildDate><atom:link href="http://bibledelight.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Autobiography</title>
-      <link>http://bibledelight.netlify.app/pages/autobiography/</link>
-      <pubDate>Mon, 26 Sep 2022 20:01:38 -0400</pubDate>
+      <title>An Apologetic for Chinese Heritage Churches</title>
+      <link>http://localhost:1313/apologetic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bibledelight.netlify.app/pages/autobiography/</guid>
-      <description>This is autobio.</description>
+      <guid>http://localhost:1313/apologetic/</guid>
+      <description>Why do Chinese heritage churches exist?</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://bibledelight.netlify.app/pages/about/</link>
-      <pubDate>Mon, 26 Sep 2022 19:52:28 -0400</pubDate>
+      <title>What is a &#34;Chinese Heritage Church&#34;?</title>
+      <link>http://localhost:1313/what/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://bibledelight.netlify.app/pages/about/</guid>
-      <description>This is the about page.</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://bibledelight.netlify.app/pages/test/</link>
-      <pubDate>Mon, 26 Sep 2022 19:52:28 -0400</pubDate>
-      
-      <guid>http://bibledelight.netlify.app/pages/test/</guid>
-      <description>This is the about page.</description>
+      <guid>http://localhost:1313/what/</guid>
+      <description>Exploring the term &amp;ldquo;Chinese heritage church&amp;rdquo;</description>
     </item>
     
   </channel>

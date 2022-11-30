@@ -4,7 +4,7 @@ url: what
 summary: Exploring the term "Chinese heritage church"
 Keywords: Chinese, church, pastors, heritage
 _build:
-  list: never
+  list: always
 draft: false
 ---
 
