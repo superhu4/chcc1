@@ -9,7 +9,8 @@ summary: This is a summary.
 Keywords: Chinese, church, pastors, heritage
 _build:
   list: never
-url: 2023
+url: 2025
+Draft: true
 ---
 On May 2-4, 2023, we invite you to join us at the Chinese Heritage Church Ministers Collective in Houston, TX. This is a gathering for those called to serve and engage the Chinese heritage church, particularly in the English speaking ministries. This gathering is a collection of those serving and we pray that participants would be encouraged not so much by content, but more so by connection with others serving in Chinese heritage churches.
 
