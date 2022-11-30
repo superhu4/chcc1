@@ -38,7 +38,7 @@ menu:
     - identifier: about
       name: About
       url: /about/
-      weight: 10  
+      weight: 10
     - identifier: 2023
       name: 2023 Ministers Collective
       url: /2023/
