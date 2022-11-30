@@ -7,7 +7,7 @@ cover:
   alt: "Chinese Heritage Church Collaborative logo"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 
-draft: false
+draft: true
 ---
 This is index.md in 'testing'
 
