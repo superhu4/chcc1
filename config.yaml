@@ -21,7 +21,7 @@ params:
   ShowReadingTime: false
   mainSections:
     - posts
-
+    
 related:
   includeNewer: true
   threshold: 75
