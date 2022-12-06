@@ -8,7 +8,9 @@ _build:
 draft: false
 ---
 
-*By Enoch Liao May 18, 2022*
+*By Enoch Liao* 
+
+May 18, 2022
 
 Soon after I joined the pastoral staff of my current church family, I ran into a problem. You see, our church has the word “Chinese” in it, as our church name is “Boston Chinese Evangelical Church.”
 
