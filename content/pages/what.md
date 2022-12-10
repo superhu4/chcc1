@@ -78,7 +78,7 @@ I say, “No, I mean that my church is a church with a Chinese heritage. It's or
 
 Then they usually say, “Oh! Well, that makes sense!”
 
-Ours is a Chinese Heritage Church
+## Ours is a Chinese Heritage Church
 
 So I began using this term. I used the term “Chinese heritage church” in sermons. The earliest written record I could find of using the term “heritage church” is in my preaching notes for a sermon I gave in 2008. My guess is that I had been using the term earlier than that.
 
