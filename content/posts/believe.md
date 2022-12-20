@@ -9,8 +9,6 @@ draft: false
 
 ---
 
-
-
 Because we’re committed to serving Chinese heritage churches across various denominations and theological traditions, we approach collaboration from a center-bounded mindset. That means we can accept differences in belief and practice so long as we are centered on the orthodox truths of the Christian faith and a shared vision for the Chinese heritage church. 
 
 Our understanding of Christian orthodoxy can be summarized in ancient creeds like the Apostles’ and Nicene or in modern formulations like Christiany Today’s Statement of Faith (see below). And our shared vision for the mission of the Chinese heritage church is captured in our organization’s Foundational Papers. 
