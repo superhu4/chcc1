@@ -10,7 +10,7 @@ ShowToc: true
 
 ---
 
-**Note: More information is forthcoming.**
+*Note: More information is forthcoming.*
 
 ## Executive Team
 
