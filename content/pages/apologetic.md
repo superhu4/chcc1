@@ -90,35 +90,35 @@ God has and continues to use Chinese heritage churches to fulfill his missional,
 ## Footnotes
 1 The term “Chinese heritage church” was coined by Enoch Liao, and it is a church whose history flows out of but is not limited to a Chinese heritage. This term will be used in this paper and is broader than “Chinese church.” In addition, although this paper uses specific examples from Chinese heritage churches in America, many of the principles may be applicable to ethnic heritage churches in the United States and other countries.
 
-2 Emerson, M. (2020, January 8). New 2020 Statistics on Multiracial Churches. Multiethnic.Church. https://multiethnic.church/released-new-2020-statistics-on-multiracial-churches/
+2 Emerson, M. (2020, January 8). New 2020 Statistics on Multiracial Churches. Multiethnic.Church. [https://multiethnic.church/released-new-2020-statistics-on-multiracial-churches/](https://multiethnic.church/released-new-2020-statistics-on-multiracial-churches/)
 
 3 In this paper, the term “first generation immigrants” refers to foreign-born individuals who relocate to America, and “second generation” refers to those born in America to foreign-born parents.
 
 4 Wan, E. (2011). Diaspora Missiology. Institute of Diaspora Studies – U.S. @ Western Seminary, Oregon, 5.
 
-5 Funk, C. (2012, July 19). Asian Americans: A Mosaic of Faiths. Pew Research Center's Religion & Public Life Project. https://www.pewforum.org/2012/07/19/asian-americans-a-mosaic-of-faiths-overview/
+5 Funk, C. (2012, July 19). Asian Americans: A Mosaic of Faiths. Pew Research Center's Religion & Public Life Project. [https://www.pewforum.org/2012/07/19/asian-americans-a-mosaic-of-faiths-overview/](https://www.pewforum.org/2012/07/19/asian-americans-a-mosaic-of-faiths-overview/)
 
-6 Hackett, Conrad. (2011, December 19). The Size and Distribution of the World's Christian Population. Pew Research Center's Religion & Public Life Project. http://www.pewforum.org/2011/12/19/global-christianity-exec/
+6 Hackett, Conrad. (2011, December 19). The Size and Distribution of the World's Christian Population. Pew Research Center's Religion & Public Life Project. [http://www.pewforum.org/2011/12/19/global-christianity-exec/](http://www.pewforum.org/2011/12/19/global-christianity-exec/)
 
 7 Fanggang, Yang, 1999. Chinese Christians in America: Conversion, Assimilation, and Adhesive Identities. The Pennsylvania State University Press, Pennsylvania, 5-6.
 
 8 Ibid., 6.
 
-9 Cooperman, A. (2015, May). Religious Landscape Study. Pew Research Center. https://www.pewforum.org/religious-landscape-study/racial-and-ethnic-composition/white/religious- tradition/evangelical-protestant/#demographic-information
+9 Cooperman, A. (2015, May). Religious Landscape Study. Pew Research Center. [https://www.pewforum.org/religious-landscape-study/racial-and-ethnic-composition/white/religious-tradition/evangelical-protestant/#demographic-information](https://www.pewforum.org/religious-landscape-study/racial-and-ethnic-composition/white/religious-tradition/evangelical-protestant/#demographic-information)
 
 10 Emerson, M. (2020, January 8). New 2020 Statistics on Multiracial Churches. Multiethnic.Church, 1.
 
-11 Ding, E. (2021, February 16). Why the Children of Immigrants Are Returning to Their Religious Roots. Christianity Today. https://www.christianitytoday.com/ct/2021/march/children-of-immigrants-multiethnic-church.html
+11 Ding, E. (2021, February 16). Why the Children of Immigrants Are Returning to Their Religious Roots. Christianity Today. [https://www.christianitytoday.com/ct/2021/march/children-of-immigrants-multiethnic-church.html](https://www.christianitytoday.com/ct/2021/march/children-of-immigrants-multiethnic-church.html)
 
 12 Ibid.
 
-13 Edwards, K. (2021, February 16). The Multiethnic Church Movement Hasn’t Lived up to Its Promise. Christianity Today. https://www.christianitytoday.com/ct/2021/march/race-diversity-multiethnic-church-movement- promise.html
+13 Edwards, K. (2021, February 16). The Multiethnic Church Movement Hasn’t Lived up to Its Promise. Christianity Today. [https://www.christianitytoday.com/ct/2021/march/race-diversity-multiethnic-church-movement-promise.html](https://www.christianitytoday.com/ct/2021/march/race-diversity-multiethnic-church-movement-promise.html)
 
 14 Ding, E. Why the Children of Immigrants Are Returning to Their Religious Roots.
 
-15 Gee, B. and Peck, D. (2018, May 31). Asian Americans Are the Least Likely Group in the U.S. to Be Promoted to Management. Harvard Business Review. https://hbr.org/2018/05/asian-americans-are-the-least-likely-group-in- the-u-s-to-be-promoted-to-management.
+15 Gee, B. and Peck, D. (2018, May 31). Asian Americans Are the Least Likely Group in the U.S. to Be Promoted to Management. Harvard Business Review. [https://hbr.org/2018/05/asian-americans-are-the-least-likely-group-in- the-u-s-to-be-promoted-to-management]([https://hbr.org/2018/05/asian-americans-are-the-least-likely-group-in- the-u-s-to-be-promoted-to-management).
 
-16 Budiman, A. and Ruiz, N. (2021, April 29). Key Facts about Asian Americans, a Diverse and Growing Population. Pew Research Center. https://www.pewresearch.org/fact-tank/2021/04/29/key-facts-about-asian-americans
+16 Budiman, A. and Ruiz, N. (2021, April 29). Key Facts about Asian Americans, a Diverse and Growing Population. Pew Research Center. [https://www.pewresearch.org/fact-tank/2021/04/29/key-facts-about-asian-americans](https://www.pewresearch.org/fact-tank/2021/04/29/key-facts-about-asian-americans)
 
 17 Emerson, M. New 2020 Statistics on Multiracial Churches.
 
