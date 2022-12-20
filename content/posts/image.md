@@ -1,7 +1,7 @@
 ---
 
 cover:
-  image: "/chcclogo1-transparent.png"
+  image: "/chcclogo1-transparent.webp"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   alt: "Chinese Heritage Church Collaborative logo"
