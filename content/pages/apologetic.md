@@ -116,7 +116,7 @@ God has and continues to use Chinese heritage churches to fulfill his missional,
 
 14 Ding, E. Why the Children of Immigrants Are Returning to Their Religious Roots.
 
-15 Gee, B. and Peck, D. (2018, May 31). Asian Americans Are the Least Likely Group in the U.S. to Be Promoted to Management. Harvard Business Review. [https://hbr.org/2018/05/asian-americans-are-the-least-likely-group-in- the-u-s-to-be-promoted-to-management]([https://hbr.org/2018/05/asian-americans-are-the-least-likely-group-in- the-u-s-to-be-promoted-to-management).
+15 Gee, B. and Peck, D. (2018, May 31). Asian Americans Are the Least Likely Group in the U.S. to Be Promoted to Management. Harvard Business Review. [https://hbr.org/2018/05/asian-americans-are-the-least-likely-group-in-the-u-s-to-be-promoted-to-management]([https://hbr.org/2018/05/asian-americans-are-the-least-likely-group-in- the-u-s-to-be-promoted-to-management).
 
 16 Budiman, A. and Ruiz, N. (2021, April 29). Key Facts about Asian Americans, a Diverse and Growing Population. Pew Research Center. [https://www.pewresearch.org/fact-tank/2021/04/29/key-facts-about-asian-americans](https://www.pewresearch.org/fact-tank/2021/04/29/key-facts-about-asian-americans)
 
