@@ -18,6 +18,10 @@ ShowToc: true
 
 ---
 
+{{< figure src="/Photo-StevenSiu.webp" title="Steven Siu" caption="Pastor Steven Siu has been serving as the senior pastor of Chinese Evangelical Church of San Diego since 2004.  He is a second generation Chinese American who was born and raised in Oakland.  He has been blessed to have participated in good Chinese heritage churches over the years, and he has heart to see second and third generation Chinese Americans pastors thrive in Chinese heritage churches." >}}
+
+---
+
 {{< figure src="/Photo-JasonTarn.webp" title="Jason Tarn" caption="Jason Tarn is the Lead English Pastor of [Houston Chinese Church](https://en.hcchome.org), a non-denominational Chinese heritage church in Houston, TX. He received his bachelors from UT Austin and completed an M.Div. at Regent College. Jason grew up at Houston Chinese Church as a teenager and has been pastoring there since 2011. His passion is to bring healthy reform to the immigrant church that is rooted in sound doctrine and a missional vision. He is married to Theresa and has two daughters, Talia and Maisie." >}}
 
 --- 
