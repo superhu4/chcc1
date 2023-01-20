@@ -10,7 +10,15 @@ ShowToc: true
 
 ---
 
-*Note: More information is forthcoming.*
+## About
+
+The Chinese Heritage Church (CHC) Collaborative is just that: a collaboration among ministers from Chinese heritage churches. A group of English speaking pastors gathered in Boston in May 2019 to connect and see if they might find value in further developing relationships. After that 2019 Pastors Colloquium, those pastors decided they would be willing to meet again and see where God leads. A second Pastors Colloquium was scheduled for 2020, but the COVID-19 pandemic happened and plans were altered. But after two online Colloquiums, the pastors agreed to name an Executive Team and commissioned two foundational papers to be written. Producing those two papers would provide the opportunity for this group to clarify our thinking and to invite others to dialogue about what we were doing. [One paper](/what) is about the history and thinking behind the term "Chinese heritage church." [Another paper](/apologetic) served as an opportunity to make a positive case for how God is using ethnic heritage churches like the Chinese heritage church. You can find those papers on this website.
+
+After the papers were written and received approval from the pastors, the group commissioned the Executive Team to work on our first public gathering. That first public gathering would become known as our first Ministers Collective.
+
+The initial group of pastors was invited by a small steering team of pastors. We simply looked around the English speaking world and invited friends and colleagues we had met along the way from the USA, Canada, and Europe.
+
+For now, those on the Executive Team sense there may be significant value to encourage and offer ways for ministers in Chinese heritage churches to connect. Perhaps this little adventure will conclude after our first public event. Or, perhaps the Lord would lead us to continue in various initiatives. Only the Lord knows! 
 
 ## Executive Team
 
