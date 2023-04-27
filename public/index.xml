@@ -2,97 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Front Page on CHCC</title>
-    <link>http://localhost:1313/</link>
+    <link>https://chcc1.netlify.app/</link>
     <description>Recent content in Front Page on CHCC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://chcc1.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/image/</link>
+      <link>https://chcc1.netlify.app/posts/image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/image/</guid>
+      <guid>https://chcc1.netlify.app/posts/image/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2023 Ministers Collective</title>
-      <link>http://localhost:1313/2023/</link>
+      <title>About</title>
+      <link>https://chcc1.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2023/</guid>
-      <description>Join us May 2-4, 2923 at the Chinese Heritage Church Ministers Collective in Houston, TX.</description>
+      <guid>https://chcc1.netlify.app/about/</guid>
+      <description>Who is involved in the Chinese Heritage Church Collaborative? What is a “Chinese Heritage Church” and why do they exist?</description>
     </item>
     
     <item>
       <title>An Apologetic for Chinese Heritage Churches</title>
-      <link>http://localhost:1313/apologetic/</link>
+      <link>https://chcc1.netlify.app/apologetic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/apologetic/</guid>
+      <guid>https://chcc1.netlify.app/apologetic/</guid>
       <description>Why do Chinese heritage churches exist?</description>
     </item>
     
     <item>
-      <title>An Apologetic for Chinese Heritage Churches</title>
-      <link>http://localhost:1313/apologetic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/apologetic/</guid>
-      <description>Why do Chinese heritage churches exist?</description>
-    </item>
-    
-    <item>
-      <title>An Apologetic for Chinese Heritage Churches</title>
-      <link>http://localhost:1313/apologetic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/apologetic/</guid>
-      <description>Why do Chinese heritage churches exist?</description>
-    </item>
-    
-    <item>
-      <title>Foundational Papers</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>What is a “Chinese Heritage Church” and why do they exist?</description>
-    </item>
-    
-    <item>
-      <title>Test Page</title>
-      <link>http://localhost:1313/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/test/</guid>
-      <description> Logo Foundational Papers What is a “Chinese Heritage Church”? An Apologetic for Chinese Heritage Churches </description>
-    </item>
-    
-    <item>
       <title>What is a &#34;Chinese Heritage Church&#34;?</title>
-      <link>http://localhost:1313/what/</link>
+      <link>https://chcc1.netlify.app/what/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/what/</guid>
-      <description>Exploring the term &amp;ldquo;Chinese heritage church&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>What is a &#34;Chinese Heritage Church&#34;?</title>
-      <link>http://localhost:1313/what/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/what/</guid>
-      <description>Exploring the term &amp;ldquo;Chinese heritage church&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>What is a &#34;Chinese Heritage Church&#34;?</title>
-      <link>http://localhost:1313/what/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/what/</guid>
+      <guid>https://chcc1.netlify.app/what/</guid>
       <description>Exploring the term &amp;ldquo;Chinese heritage church&amp;rdquo;</description>
     </item>
     

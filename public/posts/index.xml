@@ -2,35 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on CHCC</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://chcc1.netlify.app/posts/</link>
     <description>Recent content in Posts on CHCC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://chcc1.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/image/</link>
+      <link>https://chcc1.netlify.app/posts/image/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/image/</guid>
+      <guid>https://chcc1.netlify.app/posts/image/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2023 Ministers Collective</title>
-      <link>http://localhost:1313/2023/</link>
+      <title>About</title>
+      <link>https://chcc1.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2023/</guid>
-      <description>Join us May 2-4, 2923 at the Chinese Heritage Church Ministers Collective in Houston, TX.</description>
-    </item>
-    
-    <item>
-      <title>Foundational Papers</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>What is a “Chinese Heritage Church” and why do they exist?</description>
+      <guid>https://chcc1.netlify.app/about/</guid>
+      <description>Who is involved in the Chinese Heritage Church Collaborative? What is a “Chinese Heritage Church” and why do they exist?</description>
     </item>
     
   </channel>
