@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/posts/image/</loc>
-  </url><url>
-    <loc>http://localhost:1313/testing/</loc>
-  </url><url>
-    <loc>http://localhost:1313/2023/</loc>
-  </url><url>
-    <loc>http://localhost:1313/apologetic/</loc>
-  </url><url>
-    <loc>http://localhost:1313/apologetic/</loc>
-  </url><url>
-    <loc>http://localhost:1313/apologetic/</loc>
-  </url><url>
-    <loc>http://localhost:1313/articles/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pages/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pages-copy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/test/</loc>
-  </url><url>
-    <loc>http://localhost:1313/what/</loc>
-  </url><url>
-    <loc>http://localhost:1313/what/</loc>
-  </url><url>
-    <loc>http://localhost:1313/what/</loc>
-  </url>
+  
 </urlset>
