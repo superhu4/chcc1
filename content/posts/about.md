@@ -1,6 +1,6 @@
 ---
 title: About
-url: about
+url: /about
 summary: Who is involved in the Chinese Heritage Church Collaborative? What is a “Chinese Heritage Church” and why do they exist?
 Keywords: Chinese, church, pastors, heritage
 _build:
