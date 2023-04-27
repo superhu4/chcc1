@@ -5,7 +5,7 @@ summary: Who is involved in the Chinese Heritage Church Collaborative? What is a
 Keywords: Chinese, church, pastors, heritage
 _build:
   list: always
-draft: true
+draft: false
 ShowToc: true
 
 ---
