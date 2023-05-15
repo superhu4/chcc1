@@ -4,7 +4,7 @@ url: /about
 summary: Who is involved in the Chinese Heritage Church Collaborative? What is a “Chinese Heritage Church” and why do they exist?
 Keywords: Chinese, church, pastors, heritage
 _build:
-  list: always
+  list: true # this won't show in lists because config.yaml only show "posts" (and this is in the "Pages" directory
 draft: false
 ShowToc: true
 

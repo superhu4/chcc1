@@ -21,6 +21,7 @@ params:
   ShowReadingTime: false
   mainSections:
     - posts
+# Using "posts" only (and not "pages") as a hack to only show the main image on the front page.
 
 
 related:
