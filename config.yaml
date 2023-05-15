@@ -1,7 +1,7 @@
 baseURL: https://chcc1.netlify.app/
 languageCode: en-us
 title: CHCC
-theme: papermod
+theme: PaperMod
 enableGitInfo: true
 paginate: 10
 frontmatter:
@@ -20,8 +20,9 @@ params:
   defaultTheme: light # dark, light, auto
   ShowReadingTime: false
   mainSections:
-    - posts
+  - posts
 # Using "posts" only (and not "pages") as a hack to only show the main image on the front page.
+
 
 
 related:
@@ -40,8 +41,14 @@ menu:
       name: About
       url: /about/
       weight: 10
-
-
+    - identifier: test
+      name: test
+      url: /test/
+      weight: 20
+    - identifier: final
+      name: final
+      url: /final/
+      weight: 30
 
 imaging:
   anchor: Smart
