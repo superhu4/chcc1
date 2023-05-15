@@ -46,7 +46,7 @@ menu:
       url: /test/
       weight: 20
     - identifier: final
-      name: final
+      name: hello
       url: /final/
       weight: 30
 
