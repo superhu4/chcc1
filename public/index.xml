@@ -5,8 +5,7 @@
     <link>https://chcc1.netlify.app/</link>
     <description>Recent content in Front Page on CHCC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 15:21:01 +0000</lastBuildDate><atom:link href="https://chcc1.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://chcc1.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://chcc1.netlify.app/posts/image/</link>
@@ -35,12 +34,21 @@
     </item>
     
     <item>
-      <title>Test Page</title>
-      <link>https://chcc1.netlify.app/123456/</link>
+      <title>test page</title>
+      <link>https://chcc1.netlify.app/888/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chcc1.netlify.app/123456/</guid>
-      <description>hi</description>
+      <guid>https://chcc1.netlify.app/888/</guid>
+      <description>hello world</description>
+    </item>
+    
+    <item>
+      <title>test page</title>
+      <link>https://chcc1.netlify.app/999/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chcc1.netlify.app/999/</guid>
+      <description>hello world</description>
     </item>
     
     <item>

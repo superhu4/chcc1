@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chcc1.netlify.app/</loc>
-    <lastmod>2023-05-15T15:21:01+00:00</lastmod>
-  </url><url>
-    <loc>https://chcc1.netlify.app/posts/</loc>
-    <lastmod>2023-05-15T15:21:01+00:00</lastmod>
-  </url><url>
     <loc>https://chcc1.netlify.app/posts/image/</loc>
   </url><url>
     <loc>https://chcc1.netlify.app/about/</loc>
@@ -16,11 +10,17 @@
   </url><url>
     <loc>https://chcc1.netlify.app/categories/</loc>
   </url><url>
+    <loc>https://chcc1.netlify.app/</loc>
+  </url><url>
     <loc>https://chcc1.netlify.app/pages/</loc>
+  </url><url>
+    <loc>https://chcc1.netlify.app/posts/</loc>
   </url><url>
     <loc>https://chcc1.netlify.app/tags/</loc>
   </url><url>
-    <loc>https://chcc1.netlify.app/123456/</loc>
+    <loc>https://chcc1.netlify.app/888/</loc>
+  </url><url>
+    <loc>https://chcc1.netlify.app/999/</loc>
   </url><url>
     <loc>https://chcc1.netlify.app/what/</loc>
   </url>

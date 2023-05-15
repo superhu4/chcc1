@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head>
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -69,6 +68,16 @@
                     <span>About</span>
                 </a>
             </li>
+            <li>
+                <a href="https://chcc1.netlify.app/test/" title="test">
+                    <span>test</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://chcc1.netlify.app/final/" title="hello">
+                    <span>hello</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -105,14 +114,26 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2>Test Page
+    <h2>test page
     </h2>
   </header>
   <div class="entry-content">
-    <p>hi</p>
+    <p>hello world</p>
   </div>
   <footer class="entry-footer"></footer>
-  <a class="entry-link" aria-label="post link to Test Page" href="https://chcc1.netlify.app/123456/"></a>
+  <a class="entry-link" aria-label="post link to test page" href="https://chcc1.netlify.app/888/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>test page
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>hello world</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to test page" href="https://chcc1.netlify.app/999/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -184,19 +205,6 @@
     };
 
 </script>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
-
-
 </body>
 
 </html>
