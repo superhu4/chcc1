@@ -41,14 +41,7 @@ menu:
       name: About
       url: /about/
       weight: 10
-    - identifier: test
-      name: test
-      url: /test/
-      weight: 20
-    - identifier: final
-      name: hello
-      url: /final/
-      weight: 30
+
 
 imaging:
   anchor: Smart
