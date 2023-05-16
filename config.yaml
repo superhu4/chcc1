@@ -38,7 +38,7 @@ related:
 menu:
   main:
     - identifier: 123
-      name: About
+      name: 123
       url: /about/
       weight: 10
 
