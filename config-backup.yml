@@ -1,0 +1,59 @@
+baseURL: https://chcc1.netlify.app/
+languageCode: en-us
+title: CHCC
+theme: PaperMod
+enableGitInfo: true
+paginate: 10
+frontmatter:
+  date:
+    - date
+    - publishDate
+    - lastmod
+  lastmod:
+    - lastmod
+    - date
+    - publishDate
+params:
+  description: Equipping those called to serve and engage the Chinese heritage church.
+  datesinlist: 1
+  disableThemeToggle: false
+  defaultTheme: light # dark, light, auto
+  ShowReadingTime: false
+  mainSections:
+  - posts
+# Using "posts" only (and not "pages") as a hack to only show the main image on the front page.
+
+
+
+related:
+  includeNewer: true
+  threshold: 75
+  toLower: false
+  indices:
+    - name: keywords
+      weight: 100
+    - name: date
+      weight: 10
+      
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
+
+
+imaging:
+  anchor: Smart
+  bgColor: '#ffffff'
+  hint: photo
+  quality: 75
+  resampleFilter: Box
