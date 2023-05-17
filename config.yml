@@ -1,7 +1,7 @@
 baseURL: https://chcc1.netlify.app/
 languageCode: en-us
 title: CHCC
-theme: archie
+theme: papdermodOLD
 paginate: 10
 
 menu:
